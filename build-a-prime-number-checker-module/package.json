@@ -1,0 +1,10 @@
+{
+  "name": "prime-checker-module",
+  "version": "1.0.0",
+  "description": "A simple npm module that checks if a whole number is prime.",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": ["prime", "number", "checker", "math"],
+  "author": "freeCodeCamp Student",
+  "license": "MIT"
+}
